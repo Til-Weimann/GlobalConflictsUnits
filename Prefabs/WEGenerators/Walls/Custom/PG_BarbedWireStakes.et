@@ -1,0 +1,9 @@
+PrefabGeneratorEntity {
+ ID "6158049D31FD087C"
+ coords 0 0 0
+ Flags 1048579
+ m_PrefabNames {
+  "{18822FB3F0D2ED00}Prefabs/Structures/Walls/BarbedWire/BarbedTape_01/BarbedTape_01_Long.et"
+ }
+ m_fDistance 3
+}

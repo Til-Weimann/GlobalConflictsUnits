@@ -1,0 +1,22 @@
+GameProject {
+ ID "GlobalConflictsUnits"
+ GUID "6156F2F771D5D73D"
+ TITLE "Global Conflicts Units"
+ Dependencies {
+  "58D0FB3206B6F859" "5EAF2B0473DB5A99" "595F2BF2F44836FB" "5AE50EC5B8D6F4AE" "5F0415B04485E3FB" "5D550926D43F1409"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{D10F97E9AE4B58BB}Prefabs/Groups/OPFOR/USSR/SovietArmy_MotorRiflesBTR/P/Group_USSR_MotRiflePHQ_P_2.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

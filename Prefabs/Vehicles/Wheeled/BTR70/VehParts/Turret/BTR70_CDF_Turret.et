@@ -1,0 +1,14 @@
+Turret : "{A31F0FF0EF0B74C8}Prefabs/Vehicles/Wheeled/BTR70/VehParts/Turret/BTR70_FIA_Turret.et" {
+ ID "51ACD0965653D003"
+ components {
+  SCR_BaseCompartmentManagerComponent "{51ACFBB07A14CFA6}" {
+   CompartmentSlots {
+    TurretCompartmentSlot TurretCompartment {
+     m_DefaultOccupantData SCR_DefaultOccupantData "{59BA9CCCB82D651B}" {
+      m_sDefaultOccupantPrefab "{9DE22FB5586591CC}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_Rifleman.et"
+     }
+    }
+   }
+  }
+ }
+}

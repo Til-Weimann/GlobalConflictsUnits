@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{27CDA470CAE4709C}Prefabs/Groups/BLUFOR/British Forces/1983/Group_UK_1983_RifleSection.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

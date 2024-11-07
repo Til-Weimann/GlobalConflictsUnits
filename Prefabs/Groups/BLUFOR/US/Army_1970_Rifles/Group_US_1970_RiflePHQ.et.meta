@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{D1EE692F88CF21B4}Prefabs/Groups/BLUFOR/Army_70_75_RifleCompany/Group_US_1970_RiflePHQ.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

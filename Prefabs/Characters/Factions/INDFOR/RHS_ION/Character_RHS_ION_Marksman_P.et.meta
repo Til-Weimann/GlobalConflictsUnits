@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{F215B413F232AC79}Prefabs/Characters/Factions/INDFOR/RHS_ION/Character_RHS_ION_Marksman_P.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

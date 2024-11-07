@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{7B89409D3818A8D9}Prefabs/Groups/BLUFOR/Army_1980_RifleCompany/Group_US_Army_1980_RiflePHQ.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
